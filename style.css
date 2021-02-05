@@ -12,3 +12,7 @@ table {
   border-collapse: separate;
   border-spacing: 15px;
 }
+
+h1 {
+  color: #f8f8ff;
+}
